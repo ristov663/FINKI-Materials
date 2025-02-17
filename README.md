@@ -2,8 +2,7 @@
 <br>
 <h1>Факултет за информатички науки и компјутерко инженерство (ФИНКИ)<h1/>
 <br>
-<h2>Материјали и решени задачи од ФИНКИ<h2/>
-<hr>
+<h2>Материјали и решени задачи од ФИНКИ<h2/><hr>
 <a href="https://github.com/FINKI-Materials/WD">Основи на Веб дизајн</a><br>
 <a href="https://github.com/FINKI-Materials/OOAID">Објектно ориентирана анализа и дизајн</a><br>
 <a href="https://github.com/FINKI-Materials/KMB">Компјутерски мрежи и безбедност</a><br>
@@ -20,10 +19,8 @@
 <a href="https://github.com/FINKI-Materials/WP">Веб програмирање</a>
 <a href="https://github.com/FINKI-Materials/WBS">Веб базирани системи</a><br>
 <a href="https://github.com/FINKI-Materials/ISSOK">Имплементација на системи со слободен и отворен код</a><br>
-<br><hr>
-<br>
-<h2>ПРОЕКТИ ФИНКИ<h2/>
-<hr>
+<br><hr><br>
+<h2>ПРОЕКТИ ФИНКИ<h2/><hr>
 <h3>ДОКЕРИЗАЦИЈА И ОРКЕСТРАЦИЈА НА SPRING BOOT АПЛИКАЦИЈА СО CI/CD И KUBERNETES</h3>
 <h4>Континуирана интеграција и испорака</h4>
 <a href="https://github.com/ristov663/Project_KIII">Линк до проектот</a>
