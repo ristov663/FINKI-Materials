@@ -4,7 +4,8 @@
 <br>
 <h2>Материјали и решени задачи од ФИНКИ<h2/>
 <br><hr>
-<a href="https://github.com/FINKI-Materials/WD">Основи на Веб дизајн</a>&nbsp;
+<a href="https://github.com/FINKI-Materials/WD">Основи на Веб дизајн</a>
+  &nbsp;
 <a href="https://github.com/FINKI-Materials/OOAID">Објектно ориентирана анализа и дизајн</a>&nbsp;
 <a href="https://github.com/FINKI-Materials/KMB">Компјутерски мрежи и безбедност</a>&nbsp;
 <a href="https://github.com/FINKI-Materials/IPKS">Интернет програмирање на клиентска страна</a>&nbsp;
