@@ -16,7 +16,7 @@
 <a href="https://github.com/FINKI-Materials/SKIT">Софтверски квалитет и тестариње</a><br>
 <a href="https://github.com/FINKI-Materials/KIII">Континуирана интеграција и испорака</a><br>
 <a href="https://github.com/FINKI-Materials/NP">Напредно програмирање</a><br>
-<a href="https://github.com/FINKI-Materials/WP">Веб програмирање</a>
+<a href="https://github.com/FINKI-Materials/WP">Веб програмирање</a><br>
 <a href="https://github.com/FINKI-Materials/WBS">Веб базирани системи</a><br>
 <a href="https://github.com/FINKI-Materials/ISSOK">Имплементација на системи со слободен и отворен код</a><br>
 <br><hr><br>
