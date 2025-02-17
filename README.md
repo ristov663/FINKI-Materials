@@ -3,28 +3,27 @@
 <h1>Факултет за информатички науки и компјутерко инженерство (ФИНКИ)<h1/>
 <br>
 <h2>Материјали и решени задачи од ФИНКИ<h2/>
-<br><hr>
-<a href="https://github.com/FINKI-Materials/WD">Основи на Веб дизајн</a>
-  &nbsp;
-<a href="https://github.com/FINKI-Materials/OOAID">Објектно ориентирана анализа и дизајн</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/KMB">Компјутерски мрежи и безбедност</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/IPKS">Интернет програмирање на клиентска страна</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/OS">Оперативни системи</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/KNIO">Концепти на информатичко општество</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/DPNS">Дигитално процесирање на слика</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/VNP">Вовед во науката за податоци</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/PNVI">Програмирање на видео игри</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/DNICK">Дизајн на интеракцијата човек-компјутер</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/SKIT">Софтверски квалитет и тестариње</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/KIII">Континуирана интеграција и испорака</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/NP">Напредно програмирање</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/WP">Веб програмирање</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/WBS">Веб базирани системи</a>&nbsp;
-<a href="https://github.com/FINKI-Materials/ISSOK">Имплементација на системи со слободен и отворен код</a>&nbsp;
+<hr>
+<a href="https://github.com/FINKI-Materials/WD">Основи на Веб дизајн</a><br>
+<a href="https://github.com/FINKI-Materials/OOAID">Објектно ориентирана анализа и дизајн</a><br>
+<a href="https://github.com/FINKI-Materials/KMB">Компјутерски мрежи и безбедност</a><br>
+<a href="https://github.com/FINKI-Materials/IPKS">Интернет програмирање на клиентска страна</a><br>
+<a href="https://github.com/FINKI-Materials/OS">Оперативни системи</a><br>
+<a href="https://github.com/FINKI-Materials/KNIO">Концепти на информатичко општество</a><br>
+<a href="https://github.com/FINKI-Materials/DPNS">Дигитално процесирање на слика</a><br>
+<a href="https://github.com/FINKI-Materials/VNP">Вовед во науката за податоци</a><br>
+<a href="https://github.com/FINKI-Materials/PNVI">Програмирање на видео игри</a><br>
+<a href="https://github.com/FINKI-Materials/DNICK">Дизајн на интеракцијата човек-компјутер</a><br>
+<a href="https://github.com/FINKI-Materials/SKIT">Софтверски квалитет и тестариње</a><br>
+<a href="https://github.com/FINKI-Materials/KIII">Континуирана интеграција и испорака</a><br>
+<a href="https://github.com/FINKI-Materials/NP">Напредно програмирање</a><br>
+<a href="https://github.com/FINKI-Materials/WP">Веб програмирање</a>
+<a href="https://github.com/FINKI-Materials/WBS">Веб базирани системи</a><br>
+<a href="https://github.com/FINKI-Materials/ISSOK">Имплементација на системи со слободен и отворен код</a><br>
 <br><hr>
 <br>
 <h2>ПРОЕКТИ ФИНКИ<h2/>
-<br><hr>
+<hr>
 <h3>ДОКЕРИЗАЦИЈА И ОРКЕСТРАЦИЈА НА SPRING BOOT АПЛИКАЦИЈА СО CI/CD И KUBERNETES</h3>
 <h4>Континуирана интеграција и испорака</h4>
 <a href="https://github.com/ristov663/Project_KIII">Линк до проектот</a>
