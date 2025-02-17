@@ -1,8 +1,7 @@
 ![image](https://github.com/user-attachments/assets/354bc31f-1352-47e6-8901-f11573d615d6)
 <br>
-<h1>Факултет за информатички науки и компјутерко инженерство (ФИНКИ)<h1/>
-<br>
-<a href="https://github.com/orgs/FINKI-Materials/repositories">Линк до мојата FINKI-Materials организација</a><br>
+<h1>Факултет за информатички науки и компјутерко инженерство (ФИНКИ)<h1/><br>
+<a href="https://github.com/orgs/FINKI-Materials/repositories">Линк до мојата FINKI-Materials организација</a><br><br>
 <h2>Материјали и решени задачи од ФИНКИ<h2/><hr>
 <a href="https://github.com/FINKI-Materials/WD">Основи на Веб дизајн</a><br>
 <a href="https://github.com/FINKI-Materials/OOAID">Објектно ориентирана анализа и дизајн</a><br>
