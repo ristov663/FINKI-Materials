@@ -25,6 +25,10 @@
 <h4>Веб базирани системи</h4>
 <a href="https://github.com/ristov663/Project_WBS">Линк до проектот</a>
 <br><hr>
+<h3>ОБРАБОТКА НА МЕДИЦИНСКИ ПОДАТОЦИ ЗА ПРЕДВИДУВАЊЕ НА РИЗИК ОД МОЗОЧЕН УДАР СО КОРИСТЕЊЕ НА МАШИНСКО УЧЕЊЕ</h3>
+<h4>Тимски проект</h4>
+<a href="https://github.com/ristov663/StrokePrediction">Линк до проектот</a>
+<br><hr>
 <h3>ДОКЕРИЗАЦИЈА И ОРКЕСТРАЦИЈА НА SPRING BOOT АПЛИКАЦИЈА СО CI/CD И KUBERNETES</h3>
 <h4>Континуирана интеграција и испорака</h4>
 <a href="https://github.com/ristov663/Project_KIII">Линк до проектот</a>
