@@ -20,8 +20,17 @@
 <a href="https://github.com/FINKI-Materials/WBS">Веб базирани системи</a><br>
 <a href="https://github.com/FINKI-Materials/ISSOK">Имплементација на системи со слободен и отворен код</a><br>
 <a href="https://github.com/FINKI-Materials/NBP">Неструктурирани бази на податоци и XML</a><br>
-<br><hr><br>
-<h2>ПРОЕКТИ ФИНКИ<h2/><hr>
+<hr><br>
+<h2>PUBLICATIONS<h2/>
+<h3>Ontology-Based Structuring and Analysis of North Macedonian Public Procurement Contracts</h3>
+<h5>Bojan Ristov, Stefan Eftimov, Milena Trajanoska and Dimitar Trajanov</h5>
+<a href="https://arxiv.org/abs/2505.09798">Линк до arXiv препринт верзија</a>
+  <hr>
+<h3>Comparative Analysis of Stroke Prediction Models Using Machine Learning</h3>
+<h5>Anastasija Tashkova, Stefan Eftimov, Bojan Ristov and Slobodan Kalajdziski</h5>
+<a href="https://arxiv.org/abs/2505.09812">Линк до arXiv препринт верзија</a>
+<hr><br>
+<h2>ПРОЕКТИ ФИНКИ<h2/>
 <h3>ВЕБ-БАЗИРАН СИСТЕМ ЗА АНАЛИЗА И ВИЗУЕЛИЗАЦИЈА НА ПОДАТОЦИ ЗА ЈАВНИ НАБАВКИ СО ПРИМЕНА НА СЕМАНТИЧКИ ВЕБ ТЕХНОЛОГИИ</h3>
 <h4>Веб базирани системи</h4>
 <a href="https://github.com/ristov663/Project_WBS">Линк до проектот</a>
@@ -42,7 +51,7 @@
 <h4>Интернет технологии</h4>
 <a href="https://github.com/ristov663/Project_IT">Линк до проектот</a>
 <br><hr>
-<h3>СИСТЕМ ЗА ДОДЕЛУВАЊЕ НА ГРАНТОВИ ЗА НАУЧНИ ПАТУВАЊА НА ФИНКИ СО ПРИМЕНА НА АНАЛИЗА НА СОФТВЕРСКИ БАРАЊА</h3>
+<h3>ВЕБ СИСТЕМ ЗА ДОДЕЛУВАЊЕ НА ГРАНТОВИ ЗА НАУЧНИ ПАТУВАЊА НА ФИНКИ СО ПРИМЕНА НА АНАЛИЗА НА СОФТВЕРСКИ БАРАЊА</h3>
 <h4>Анализа на софтверски барања</h4>
 <a href="https://github.com/ristov663/Project_ANSB">Линк до проектот</a>
 <br><hr>
@@ -50,7 +59,7 @@
 <h4>Дигитално процесирање на слика</h4>
 <a href="https://github.com/ristov663/Project_DPNS">Линк до проектот</a>
 <br><hr>
-<h3>ВЕБ АПЛИКАЦИЈА ЗА КУЛТУРНО-ИСТОРИСКО НАСЛЕДСТВО НА МАКЕДОНИЈА СО КОРИСТЕЊЕ НА РАЗЛИЧНИ СТИЛОВИ НА АРХИТЕКТУРА НА СОФТВЕР</h3>
+<!-- <h3>ВЕБ АПЛИКАЦИЈА ЗА КУЛТУРНО-ИСТОРИСКО НАСЛЕДСТВО НА МАКЕДОНИЈА СО КОРИСТЕЊЕ НА РАЗЛИЧНИ СТИЛОВИ НА АРХИТЕКТУРА НА СОФТВЕР</h3>
 <h4>Дизајн и архитектура на софтвер</h4>
 <a href="https://github.com/ristov663/Project_DIANS">Линк до проектот</a>
-<br><hr>
+<br><hr> -->
